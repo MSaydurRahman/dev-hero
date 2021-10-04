@@ -1,0 +1,14 @@
+.course-item-img img{
+height: 300px;
+width:100%;
+}
+.course-item{
+    margin:50px 100px;
+    padding: 5px;
+    border: 1px solid rgba(128, 128, 128, 0.39);
+    border-radius: 10px;
+}
+.course-item a{
+    text-decoration: none;
+    margin: 10px;
+}

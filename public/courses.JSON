@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Web Application Development with Laravel – Beginner",
+        "description": "Laravel is currently a popular and widely used framework for web application development. Many cannot go far because they do not know the basics and learn randomly.",
+        "duration": "1 year",
+        "tuitionFee": 200,
+        "applyDate": "Apr 2022",
+        "startDate": "Aug 2022",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/140961327/original/51ebb30e84855c7992fff4cba441fce1e192b136/be-a-laravel-developer-for-you-and-will-do-web-development.png"
+    },
+    {
+        "name": "Data Structure & Algorithm Fundamentals",
+        "description": "This course solely focuses on data structure and algorithm fundamentals. There are a lot of people both from CS and Non-CS background who do not have adequate understandings on data structures.",
+        "duration": "8 Month",
+        "tuitionFee": 150,
+        "applyDate": "Jan 2022",
+        "startDate": "Feb 2022",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVxxY0pZim_s3y4LIJKsomE7ehkJ2CuUYFA&usqp=CAU"
+    },
+    {
+        "name": "Professional Programming with C#",
+        "description": "In order to build yourself up as a good quality software developer, we have to have a very good idea about the basics. In this course, we have a lot of practice with C # programming language.",
+        "duration": "6 Month",
+        "tuitionFee": 100,
+        "applyDate": "Feb 2022",
+        "startDate": "Mar 2022",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU"
+    },
+    {
+        "name": "Competitive Programming - Advanced",
+        "description": "If you want to improve your algorithmic problem-solving skill and improve in National contests and Codeforces contests, you should enroll in this course. We will conduct the course in a suitable way for the.",
+        "duration": "1 year",
+        "tuitionFee": 200,
+        "applyDate": "May 2022",
+        "startDate": "Jun 2022",
+        "img": "https://miro.medium.com/max/579/1*lI0nR91pNegb9mwLmgNgQQ.png"
+    },
+    {
+        "name": "Full Stack Asp.net Core MVC Web Development",
+        "description": "If you want to develop yourself as a full fledged .Net software engineer then this course is a golden opportunity for you. This course introduces you to Advanced C # Programming,.",
+        "duration": "1.6 year",
+        "tuitionFee": 300,
+        "applyDate": "Jun 2022",
+        "startDate": "Jul 2022",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg"
+    },
+    {
+        "name": "Programming Fundamentals",
+        "description": "This course solely focuses on programming fundamentals. There are many people who are from Non-CS background but have the indomitable desire to learn and understand the fundamentals.",
+        "duration": "6 Month",
+        "tuitionFee": 50,
+        "applyDate": "Aug 2022",
+        "startDate": "Sep 2022",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCfJAxhnSr3OuiMM1Id2-mCdebKgqc2QGfHuLUdhEhg5EoZvDgoIl9hUGo8oJPgnPnLQ&usqp=CAU"
+    },
+    {
+        "name": "Kubernetes Essentials",
+        "description": "Now a days most well known buzz word in the software industry is Kubernetes . Kubernetes Essentials Course will help you to learn how to develop and deploy web applications, different kind.",
+        "duration": "4 Month",
+        "tuitionFee": 60,
+        "applyDate": "Sep 2022",
+        "startDate": "Oct 2022",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVbPmZdF8HndlfH7at4oxQV_HJFhruNl4VvnREYT9uq05huIzrBJgk49R1LK5YwLgmB1U&usqp=CAU"
+    },
+    {
+        "name": "ReactJs - The Complete Guide",
+        "description": "Learn React or dive deeper into it. Learn the What, Why and How of ReactJs, solve assignments, practice in demo projects, and build one big application that is improved throughout the course.",
+        "duration": "1 year",
+        "tuitionFee": 100,
+        "applyDate": "Oct 2022",
+        "startDate": "Nov 2022",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
+    }
+]
