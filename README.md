@@ -7,7 +7,7 @@
 https://dazzling-nightingale-7ae2a2.netlify.app/
 
 ### 3 key points
-1.this a programming learning web course
+1.this a programming learning platform 
 
 2.this is eassy to access
 
